@@ -1,0 +1,44 @@
+body
+{
+	background-color:orange;
+	color:blue;
+}
+img 
+{
+	height:200;
+	width:250;
+}
+
+div
+{
+	background-color:lightblue;
+	color:maroon;
+	margin:50px;
+	margin-right:300px;
+}
+a:link /*before I click on the link*/
+{
+	color:pink
+}
+
+a:visited /*after I been to the site at least once*/
+{
+	color:aqua'
+}
+
+a:hover
+{
+	color:yellow;/*when I have my mouse over the link*/
+}
+
+a:active/*when I am clicking on the link*/
+{
+	color:maroon
+}
+
+fieldset
+{
+	border: dotted red 2px;
+	padding: 20px; 
+	margin: 10px 100px; /*top/bottom and then left/right*?
+}
